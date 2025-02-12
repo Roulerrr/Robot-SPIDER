@@ -1,0 +1,8 @@
+Summary
+The mePed Quadruped Robot is an open source robot for anyone who wants to build an inexpensive, 8 degree of freedom, walking robot.  
+
+The DXF file is laid out for a 300mm x 200mm laser cutter using either 3mm or 1/8" sheet material for the parts.  I used 1/8" Baltic Birch plywood for this build.  
+
+The build requires 40ea M3x10mm screws, 16ea M3x12mm Screws, 24ea M3 hex nuts, and 32ea M3 Nyloc hex nuts.  Fewer nylocs and more plain hex nuts can be used but I prefer nylocs because they never loosen and they don't cost much more than plain nuts.  
+
+Here's a video of the first movements of the prototype:  https://www.youtube.com/watch?v=0ibGGtgofn0  
