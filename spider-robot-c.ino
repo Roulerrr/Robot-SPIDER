@@ -6,7 +6,9 @@ Servo pivotFrontLeft, liftFrontLeft;
 Servo pivotFrontRight, liftFrontRight;
 Servo pivotBackLeft, liftBackLeft;
 Servo pivotBackRight, liftBackRight;
-
+// Servo 8
+Servo pivotFrontLeft2, liftFrontLeft2;
+Servo pivotFront
 
 // Calibration offsets
 int high = 130;  // Lift height
